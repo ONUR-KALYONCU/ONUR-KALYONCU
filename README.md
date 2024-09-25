@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Turkey<br>🖥️  See my portfolio at My Linkedln<br>✉️  You can contact me at onurkalyoncu18@gmail.com<br>🧠  I'm learning PHP, Laravel, MySQL<br>🤝  I'm open to collaborating on<br>⚡  I'like to code
+🌍  I'm based in Turkey<br>🖥️  See my portfolio at My Linkedln<br>✉️  You can contact me at onurkalyoncu18@gmail.com<br>🧠  I'm learning PHP, Laravel, MySQL, PostgreSQL<br>🤝  I'm open to collaborating on<br>⚡  I'like to code
 
 
 ## 🌐 Socials:
